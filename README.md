@@ -1,7 +1,7 @@
 # DATA-dog-ratings-data-wrangling
 In this project, I use Python and its libraries to wrangle data which involves
--  Gathering data from a variety of sources and formats
--  Assessing its quality and tidiness
+-  Gathering data from a variety of sources and formats.
+-  Assessing its quality and tidiness.
 -  Cleaning it.
 
 I also store, analyze, and visualize the wrangled data.
